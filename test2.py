@@ -1,2 +1,2 @@
-def test
-return 2
+def test():
+    return 2
