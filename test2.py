@@ -1,4 +1,3 @@
 def test():
+    print("hello")
     return 2
-def test2():
-    return 5
